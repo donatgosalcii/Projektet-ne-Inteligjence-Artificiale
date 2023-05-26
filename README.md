@@ -5,4 +5,4 @@ Project 1- Application of AI in railway Transport. (Projekti 1(Seminari).docx)
 
 Project 2- Implementation of Unifrom-Cost-Search,(Djisktra Algorithm. Projekti 2-Aplikimi i Uniform Cost Search-Dijkstra Algorithm .docx, DijkstraAlgorithm.java).
 
-Project 3&4-CVRP using simulated annelaing. (CVRP-Documentation.docx, CVRP.java)
+Projects 3&4-CVRP using simulated annelaing. (CVRP-Documentation.docx, CVRP.java)
